@@ -9,6 +9,9 @@ The steps to complete the task are as follows:
 4. Provide the learning curves (Training and validation loss, and training and validation accuracy).
 5. Provide confusion matrix as well. Save the trained model.
 6. Compare the three models and justify which model performs better and why?
+Link of Google Drive Here:
+https://drive.google.com/drive/folders/15EEzJ4lTZOcFTX7Llz_IYoFEDWQtD9n0
+
 <img width="1240" height="1501" alt="Image 1" src="https://github.com/user-attachments/assets/dda1f66a-f5a4-48dc-8a84-fa0cd0af7bc0" />
 <img width="1037" height="1492" alt="image" src="https://github.com/user-attachments/assets/5d01f81c-4943-47ea-be5d-ac6823996bea" />
 <img width="2243" height="1243" alt="image" src="https://github.com/user-attachments/assets/04a0336b-b825-498c-af02-543b20484422" />
