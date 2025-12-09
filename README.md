@@ -9,3 +9,4 @@ The steps to complete the task are as follows:
 4. Provide the learning curves (Training and validation loss, and training and validation accuracy).
 5. Provide confusion matrix as well. Save the trained model.
 6. Compare the three models and justify which model performs better and why?
+<img width="1240" height="1501" alt="Image 1" src="https://github.com/user-attachments/assets/dda1f66a-f5a4-48dc-8a84-fa0cd0af7bc0" />
